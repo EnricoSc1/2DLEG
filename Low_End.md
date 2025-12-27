@@ -1,7 +1,7 @@
 
 # 2D/LOW-END GAMES :computer:
 
-Based on the previous experience on HP Spectre x360 13-4136NL able to run Cuphead smoothly having the following specs:
+Based on the previous experience on HP Spectre x360 13-4136NL, which can run Cuphead smoothly with the following specs:
 
 1. CPU: Intel Core i5-6200U (6th gen Skylake) 2 cores / 4 threads 2.3 GHz base, up to 2.8 GHz turbo 15 W TDP (low-power CPU)
 2. GPU: Intel HD Graphics 520 (integrated), up to ~1.7 GB shared memory, DirectX 12, OpenGL 4.4
@@ -77,6 +77,7 @@ Based on the previous experience on HP Spectre x360 13-4136NL able to run Cuphea
 -[Bloody Hell](https://store.steampowered.com/app/2056220/Bloody\_Hell/)\
 -[Enter the Gungeon](https://store.steampowered.com/app/311690/Enter\_the\_Gungeon/)\
 -[Mullet Madjack](https://store.steampowered.com/app/2111190/MULLET\_MADJACK/)
+
 
 
 
