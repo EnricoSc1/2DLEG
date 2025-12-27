@@ -76,7 +76,8 @@ Based on the previous experience on HP Spectre x360 13-4136NL, which can run Cup
 -[20 Minutes Till Dawn](https://store.steampowered.com/app/1966900/20\_Minutes\_Till\_Dawn/)\
 -[Bloody Hell](https://store.steampowered.com/app/2056220/Bloody\_Hell/)\
 -[Enter the Gungeon](https://store.steampowered.com/app/311690/Enter\_the\_Gungeon/)\
--[Mullet Madjack](https://store.steampowered.com/app/2111190/MULLET\_MADJACK/)
+-[Mullet Madjack](https://store.steampowered.com/app/2111190/MULLET\_MADJACK/) (maybe high demanding)
+
 
 
 
