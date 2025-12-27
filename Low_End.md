@@ -40,6 +40,7 @@ Based on the previous experience on HP Spectre x360 13-4136NL able to run Cuphea
 ### ROGUELIKE :loop:
 
 -[Balatro](https://store.steampowered.com/app/2379780/Balatro/)\
+-[Bleak Sword DX](https://store.steampowered.com/app/2193050/Bleak_Sword_DX/)
 -[Crypt of the NecroDancer](https://store.steampowered.com/app/247080/Crypt\_of\_the\_NecroDancer/)\
 -[Dead Cells](https://store.steampowered.com/app/588650/Dead\_Cells/)\
 -[Death Road to Canada](https://store.steampowered.com/app/252610/Death\_Road\_to\_Canada/)\
@@ -76,6 +77,7 @@ Based on the previous experience on HP Spectre x360 13-4136NL able to run Cuphea
 -[Bloody Hell](https://store.steampowered.com/app/2056220/Bloody\_Hell/)\
 -[Enter the Gungeon](https://store.steampowered.com/app/311690/Enter\_the\_Gungeon/)\
 -[Mullet Madjack](https://store.steampowered.com/app/2111190/MULLET\_MADJACK/)
+
 
 
 
