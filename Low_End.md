@@ -75,7 +75,7 @@ Based on the previous experience on HP Spectre x360 13-4136NL, which can run Cup
 
 -[20 Minutes Till Dawn](https://store.steampowered.com/app/1966900/20\_Minutes\_Till\_Dawn/)\
 -[Bloody Hell](https://store.steampowered.com/app/2056220/Bloody\_Hell/)\
--[Enter the Gungeon](https://store.steampowered.com/app/311690/Enter\_the\_Gungeon/)\
+-[Enter the Gungeon](https://store.steampowered.com/app/311690/Enter\_the\_Gungeon/)
 
 # HIGH-END GAMES 🔥
 
@@ -91,4 +91,5 @@ Based on the previous experience on HP Spectre x360 13-4136NL, which can run Cup
 -[Post Void](https://store.steampowered.com/app/1285670/Post_Void/)\
 -[Reaver](https://store.steampowered.com/app/1890950/REAVER/)\
 -[Ultrakill](https://store.steampowered.com/app/1229490/ULTRAKILL/)
+
 
