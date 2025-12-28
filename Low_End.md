@@ -81,13 +81,14 @@ Based on the previous experience on HP Spectre x360 13-4136NL, which can run Cup
 
 ### BOOMER-SHOOTER 💥
 
--[Anger Foot](https://store.steampowered.com/app/1978590/Anger_Foot/)
--[Cruel](https://store.steampowered.com/app/2689470/CRUEL?snr=1_241_4_boomershooter_100726)
--[Dimensioanl Slaughter](https://store.steampowered.com/app/2086060/DIMENSIONAL_SLAUGHTER/)
--[Hyper Demon](https://store.steampowered.com/app/1743850/HYPER_DEMON/)
--[Incision](https://store.steampowered.com/app/1734680/INCISION/)
--[Mullet Madjack](https://store.steampowered.com/app/2111190/MULLET\_MADJACK/)
--[Nightmare Reaper](https://store.steampowered.com/app/1051690/Nightmare_Reaper/)
--[Post Void](https://store.steampowered.com/app/1285670/Post_Void/)
--[Reaver](https://store.steampowered.com/app/1890950/REAVER/)
--[Ultrakill](https://store.steampowered.com/app/1229490/ULTRAKILL/)\
+-[Anger Foot](https://store.steampowered.com/app/1978590/Anger_Foot/)\
+-[Cruel](https://store.steampowered.com/app/2689470/CRUEL?snr=1_241_4_boomershooter_100726)\
+-[Dimensioanl Slaughter](https://store.steampowered.com/app/2086060/DIMENSIONAL_SLAUGHTER/)\
+-[Hyper Demon](https://store.steampowered.com/app/1743850/HYPER_DEMON/)\
+-[Incision](https://store.steampowered.com/app/1734680/INCISION/)\
+-[Mullet Madjack](https://store.steampowered.com/app/2111190/MULLET\_MADJACK/)\
+-[Nightmare Reaper](https://store.steampowered.com/app/1051690/Nightmare_Reaper/)\
+-[Post Void](https://store.steampowered.com/app/1285670/Post_Void/)\
+-[Reaver](https://store.steampowered.com/app/1890950/REAVER/)\
+-[Ultrakill](https://store.steampowered.com/app/1229490/ULTRAKILL/)
+
